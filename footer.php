@@ -1,5 +1,5 @@
 <footer>
-            <div class="footer-img-wrapper"><img src="images/img-top.jpg"></div>
+            <div class="footer-img-wrapper"><img src="<?php echo get_template_directory_uri(); ?>/images/img-top.jpg"></div>
             <p>since_1990</p>
 
 

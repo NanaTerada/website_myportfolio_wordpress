@@ -7,7 +7,7 @@
         <title>タイトル</title>
         
         <link rel="stylesheet" href="normalize.css">
-        <link rel="stylesheet" href="css/style.css">
+        <link rel="stylesheet" href="<?php echo get_stylesheet_uri(); ?>">
 
         <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
         <link href="https://use.fontawesome.com/releases/v5.6.1/css/all.css" rel="stylesheet">
@@ -21,7 +21,7 @@
         <header>
             <nav>
                 <ul>
-                    <li><a href="#top">top</a></li>
+                    <li><a href="<?php echo home_url('/'); ?>">top</a></li>
                     <li><a href="#about">about</a></li>
                     <li><a href="#work">work</a></li>
                     <li><a href="#blog">blog</a></li>

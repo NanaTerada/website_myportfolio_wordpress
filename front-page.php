@@ -10,7 +10,7 @@
                     <div class="section-top-inner">
                         <h1 class="title">WIP<span>__work in progress</span></h1>
 
-                        <div class="img-wapper"><img src="images/img-top.jpg"></div>
+                        <div class="img-wapper"><img src="<?php echo get_template_directory_uri(); ?>/images/img-top.jpg"></div>
                         <!-- <div>キャッチコピーてきな一言</div> -->
                     </div>
                 </section>

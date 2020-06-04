@@ -11,28 +11,13 @@
                         <h1 class="title">WIP<span>__work in progress</span></h1>
 
                         <div class="img-wapper"><img src="images/img-top.jpg"></div>
-                        <div>キャッチコピーてきな一言</div>
+                        <!-- <div>キャッチコピーてきな一言</div> -->
                     </div>
                 </section>
                 
 
-                <section id="about">
-                        <div class="section-about-inner">
 
-                            <!-- <div id="tag1" class="tag">＃プロフ</div>
-                            <div id="tag2" class="tag">＃プログラミング</div>
-                            <div id="tag3" class="tag">＃花</div>
-                            <div id="tag4" class="tag">＃鳥</div>
-                            <div id="tag5" class="tag">＃鹿児島</div>
-                            <div id="tag6" class="tag">＃アニメ</div>
-                            <div id="tag7" class="tag">＃このサイトについて</div> -->   
-                            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-
-                        </div>
-                        <!-- section-about-inner -->
-                </section>
-
-                <!-- ここまで背景一緒 　背景アタッチメントで文字だけスクロールされる　↓からは別背景-->
+              
             <main>
 
 
